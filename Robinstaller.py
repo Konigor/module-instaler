@@ -1,6 +1,7 @@
 import os
 import tkinter as tk
 
+print('testar om du ser dett Martin!')
 root= tk.Tk()
 
 canvas1 = tk.Canvas(root, width = 300, height = 350, bg = 'gray90', relief = 'raised')
